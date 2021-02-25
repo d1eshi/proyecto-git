@@ -1,0 +1,19 @@
+body {
+  background-color: aqua;
+  color: rgb(230, 113, 113);
+  text-align: center;
+  font-family: 'Arial';
+  font-size: 1.5rem;
+}
+
+.container {
+  width: 70%;
+  padding: 1em;
+  margin: 0 auto;
+  text-align: left;
+  border: 1px aqua solid;
+}
+
+.post h1 {
+  font-size: 5rem;
+}
