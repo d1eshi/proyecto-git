@@ -1,6 +1,6 @@
 body {
-  background-color: aqua;
-  color: rgb(230, 113, 113);
+  background-color: rgba(216, 191, 216, 0.699);
+  color: #333;
   text-align: center;
   font-family: 'Arial';
   font-size: 1.5rem;
@@ -11,9 +11,26 @@ body {
   padding: 1em;
   margin: 0 auto;
   text-align: left;
-  border: 1px aqua solid;
 }
 
 .post h1 {
   font-size: 5rem;
+}
+
+.cabecera {
+  width: 100%;
+  background-color: rgb(24, 55, 228);
+  padding: 1em;
+}
+
+.cabecera p {
+  font-size: 1.7rem;
+  font-weight: bold;
+  letter-spacing: 1.7;
+  text-align: left;
+  color: #ffffff;
+}
+
+a {
+  text-decoration: none;
 }
