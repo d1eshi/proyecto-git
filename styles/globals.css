@@ -34,3 +34,14 @@ body {
 a {
   text-decoration: none;
 }
+
+.post {
+  padding: 1em;
+}
+
+footer {
+  background-color: rgb(144, 145, 123);
+  color: #ffffff;
+  padding: 0.3em 1em;
+  text-align: center;
+}
